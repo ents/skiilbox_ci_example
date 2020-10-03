@@ -1,1 +1,1 @@
-# skiilbox_ci_example
+# skillbox_ci_example
